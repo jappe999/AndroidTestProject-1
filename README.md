@@ -1,2 +1,2 @@
-# AndroidTestProject-1
+# AndroidTestProject-APIs
 Learning to write Android apps
